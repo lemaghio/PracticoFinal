@@ -1,0 +1,14 @@
+Sun Sep 30 20:42:41 ART 2018 : Servidor de red Apache Derby: Se ha iniciado 10.10.2.0 - (1582446) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Sun Sep 30 20:42:42 ART 2018:
+ Iniciando instancia a816c00e-0166-2cdc-d2a7-00006664fc79 de Derby, versión The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): 
+en el directorio de base de datos K:\PracticoFinal\PracticoFinal\ACME con el cargador de clases sun.misc.Launcher$AppClassLoader@1d44bcfa
+Cargado desde file:/C:/Program%20Files/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Program Files\glassfish-4.1.1\javadb
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=K:\PracticoFinal\PracticoFinal
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
